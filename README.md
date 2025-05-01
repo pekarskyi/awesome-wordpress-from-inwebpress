@@ -1,0 +1,2 @@
+# pifagor-community
+WordPress Community
