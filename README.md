@@ -1,2 +1,1 @@
-# pifagor-community
-WordPress Community
+# WP Helper
