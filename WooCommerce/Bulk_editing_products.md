@@ -1,7 +1,5 @@
 # Плагіни для масового редагування товарів
 
-[< На головну](https://github.com/pekarskyi/awesome-wordpress-ua)
-
 ## WooCommerce Advanced Bulk Edit
 - [WooCommerce Advanced Bulk Edit](https://codecanyon.net/item/woocommerce-advanced-bulk-edit/8011417)
 

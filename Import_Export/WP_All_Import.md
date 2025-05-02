@@ -1,7 +1,5 @@
 # Імпорт та Експорт записів, товарів і т.д.
 
-[< На головну](https://github.com/pekarskyi/awesome-wordpress-ua)
-
 ## WP All Import
 - [WP All Import](https://wordpress.org/plugins/wp-all-import/) - плагін для імпорту даних, безкоштовна версія.
 - [WP All Import PRO](https://wordpress.org/plugins/wp-all-import/) - плагін для імпорту даних, платна версія.
