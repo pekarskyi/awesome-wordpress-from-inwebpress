@@ -1,6 +1,6 @@
 # Кведи для IT
 
-[На головну](/awesome-wordpress-ua)
+[< На головну](https://github.com/pekarskyi/awesome-wordpress-ua)
 
 | КВЕД | Назва | Коли використовувати |
 |----------------|:---------|:----------------|
