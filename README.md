@@ -1,7 +1,7 @@
 # Awesome WordPress UA
 
 ## WooCommerce
-- [Масове редагування товарів](/WooCommerce/Bulk_editing_produscts.md)
+- [Масове редагування товарів](/WooCommerce/Bulk_editing_products.md)
 
 ## Імпорт та Експорт даних
 - [Плагін WP All Import](/Import_Export/WP_All_Import.md)
