@@ -1,4 +1,4 @@
-# Awesome WordPress UA
+# Awesome WordPress from InwebPress
 
 ## WooCommerce
 - [Масове редагування товарів](/WooCommerce/Bulk_editing_products.md)
