@@ -1,7 +1,7 @@
 # Awesome WordPress UA
 
 ## WooCommerce
-[Масове редагування товарів](/WooCommerce/Масове_редагування_товарів.md)
+[Масове редагування товарів](/WooCommerce/Bulk_editing_produscts.md)
 
 ## IT-ФОП
-- [КВЕДИ](/IT-ФОП/КВЕДИ.md)
+- [КВЕДИ](/IT-FOP/KVEDU.md)
