@@ -1,1 +1,1 @@
-# WP Helper
+# Awesome WordPress
