@@ -1,4 +1,4 @@
-# Імпорт та Експорт записів, товарів і т.д.
+# ✅ Імпорт та Експорт записів, товарів і т.д.
 
 ## WP All Import
 - [WP All Import](https://wordpress.org/plugins/wp-all-import/) - плагін для імпорту даних, безкоштовна версія.
@@ -8,7 +8,7 @@
 - [WP All Export](https://wordpress.org/plugins/wp-all-export/) - плагін для експорту даних, безкоштовна версія.
 - [WP All Export](https://www.wpallimport.com/export-wordpress/) - плагін для експорту даних, платна версія.
 
-## Навчальні матеріали:
+## 💡 Навчальні матеріали:
 - [Как импортировать простые товары WooCommerce из Excel? ★ Плагин WP All Import](https://www.youtube.com/watch?v=ZylVfJYwB4U)
 - [Как импортировать товары WooCommerce из XML? ★ Плагин WP All Import](https://www.youtube.com/watch?v=l8ezcdfR3yU)
 - [Как массово обновить цены товаров WooCommerce за 10 минут? ➤ Плагин WP All Import](https://www.youtube.com/watch?v=YBg-BQ7b9es)

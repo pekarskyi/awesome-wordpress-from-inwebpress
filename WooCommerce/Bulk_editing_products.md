@@ -1,4 +1,4 @@
-# Плагіни для масового редагування товарів
+# ✅ Плагіни для масового редагування товарів
 
 ## WooCommerce Advanced Bulk Edit
 - [WooCommerce Advanced Bulk Edit](https://codecanyon.net/item/woocommerce-advanced-bulk-edit/8011417)
