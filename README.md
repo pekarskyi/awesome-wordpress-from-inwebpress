@@ -12,6 +12,9 @@
 ## Мультимовність
 
 ## Безпека сайтів
+- [Основні загрози для WordPress](/Security/General.md)
+- [Детальний аналіз загроз безпеки для WordPress](/Security/Detailed_analysis_security_threats.md)
+- [Заголовки безпеки (Security Headers)](/Security/Security_Headers.md)
 
 ## Резервні копії / Міграція сайтів
 
